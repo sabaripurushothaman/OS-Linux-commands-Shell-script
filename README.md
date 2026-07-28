@@ -213,17 +213,20 @@ egrep -w '(H|h)ell[a-z]' newfile
 
 egrep '(^hello)' newfile 
 ## OUTPUT
+<img width="301" height="27" alt="image" src="https://github.com/user-attachments/assets/112a73d8-0d81-4129-bf82-9ace8d38eb1f" />
 
 
 
 egrep '(world$)' newfile 
 ## OUTPUT
 
+<img width="247" height="47" alt="image" src="https://github.com/user-attachments/assets/1659864d-0fb3-473d-9903-33630dfb8268" />
 
 
 egrep '(World$)' newfile 
 ## OUTPUT
 
+<img width="248" height="27" alt="image" src="https://github.com/user-attachments/assets/ba7b308d-2910-4ce3-8056-47c9d7694d47" />
 
 egrep '((W|w)orld$)' newfile 
 ## OUTPUT
