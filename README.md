@@ -66,6 +66,16 @@ cmp file1 file2
 <img width="1920" height="1080" alt="Screenshot_20260727_210551" src="https://github.com/user-attachments/assets/26d95251-f166-4d7e-9091-275e47854a49" />
 <img width="1920" height="1080" alt="Screenshot_20260727_205434" src="https://github.com/user-attachments/assets/86e6e2d7-9038-4652-a33b-cf22ba121c4c" />
 <img width="1920" height="1080" alt="Screenshot_20260727_200341" src="https://github.com/user-attachments/assets/28d5a311-1c4b-456f-b621-ba11aab75306" />
+<img width="1920" height="1080" alt="Screenshot_20260727_200144" src="https://github.com/user-attachments/assets/b71409ab-085e-494b-9683-6f207e8f7719" />
+<img width="1920" height="1080" alt="Screenshot_20260727_200138" src="https://github.com/user-attachments/assets/861cdd13-405b-4137-a468-d9b8d20cef87" />
+<img width="1920" height="1080" alt="Screenshot_20260727_195713" src="https://github.com/user-attachments/assets/899b1b0d-b779-4dbf-8b16-fcf6887d4b47" />
+<img width="726" height="290" alt="Screenshot_20260727_194846" src="https://github.com/user-attachments/assets/ac06e504-4709-4c45-81ef-333a8d1ac57c" />
+<img width="1920" height="1080" alt="Screenshot_20260727_143931" src="https://github.com/user-attachments/assets/dc3d5381-d252-467e-839d-70773d9ea5ce" />
+<img width="893" height="198" alt="Screenshot_20260727_143048" src="https://github.com/user-attachments/assets/f489f606-45e4-4c63-bb76-e28689ba0c24" />
+<img width="893" height="76" alt="Screenshot_20260727_142649" src="https://github.com/user-attachments/assets/41d1d9f1-67e1-484a-afc2-a5a6fdf257ab" />
+<img width="936" height="507" alt="Screenshot_20260727_142132" src="https://github.com/user-attachments/assets/5322ea0a-53e5-4aa9-bdde-db406ca0780a" />
+<img width="1920" height="1080" alt="Screenshot_20260727_141636" src="https://github.com/user-attachments/assets/bc60f153-bea7-44fb-8f6e-11d0b063ae5f" />
+
 
 
 comm file1 file2
