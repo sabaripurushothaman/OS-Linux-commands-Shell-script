@@ -59,6 +59,13 @@ cmp file1 file2
 <img width="1920" height="1080" alt="Screenshot_20260727_214354" src="https://github.com/user-attachments/assets/052a1580-566c-4e03-a126-0cbe76c984cb" />
 <img width="800" height="155" alt="Screenshot_20260727_213841" src="https://github.com/user-attachments/assets/235a5d4c-4e79-4bac-9fb3-7b734a5c965f" />
 <img width="765" height="266" alt="Screenshot_20260727_213623" src="https://github.com/user-attachments/assets/58fdaf3e-15ea-46dc-b5c9-ab677129274c" />
+<img width="1920" height="1080" alt="Screenshot_20260727_213349" src="https://github.com/user-attachments/assets/917c766c-1c71-4fdb-8a55-5f86fe692924" />
+<img width="749" height="209" alt="Screenshot_20260727_213118" src="https://github.com/user-attachments/assets/1fbebe9f-b9c8-4540-8745-6e4197b5252d" />
+<img width="622" height="206" alt="Screenshot_20260727_212844" src="https://github.com/user-attachments/assets/c7690502-2a3b-4c9d-a3a3-d883898d198f" />
+<img width="531" height="247" alt="Screenshot_20260727_211158" src="https://github.com/user-attachments/assets/4e41e16b-f77f-4a0e-bb13-702c1d56d0c4" />
+<img width="1920" height="1080" alt="Screenshot_20260727_210551" src="https://github.com/user-attachments/assets/26d95251-f166-4d7e-9091-275e47854a49" />
+<img width="1920" height="1080" alt="Screenshot_20260727_205434" src="https://github.com/user-attachments/assets/86e6e2d7-9038-4652-a33b-cf22ba121c4c" />
+<img width="1920" height="1080" alt="Screenshot_20260727_200341" src="https://github.com/user-attachments/assets/28d5a311-1c4b-456f-b621-ba11aab75306" />
 
 
 comm file1 file2
