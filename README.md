@@ -57,6 +57,9 @@ cmp file1 file2
 <img width="324" height="129" alt="Screenshot_20260728_222029" src="https://github.com/user-attachments/assets/b6d719ed-797c-40c9-b7be-8c9486d0d0ca" />
 <img width="1920" height="1080" alt="Screenshot_20260727_215119" src="https://github.com/user-attachments/assets/ffcb8183-58a7-4eb2-93e6-963480047047" />
 <img width="1920" height="1080" alt="Screenshot_20260727_214354" src="https://github.com/user-attachments/assets/052a1580-566c-4e03-a126-0cbe76c984cb" />
+<img width="800" height="155" alt="Screenshot_20260727_213841" src="https://github.com/user-attachments/assets/235a5d4c-4e79-4bac-9fb3-7b734a5c965f" />
+<img width="765" height="266" alt="Screenshot_20260727_213623" src="https://github.com/user-attachments/assets/58fdaf3e-15ea-46dc-b5c9-ab677129274c" />
+
 
 comm file1 file2
  ## OUTPUT
