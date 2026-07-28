@@ -75,8 +75,13 @@ cmp file1 file2
 <img width="893" height="76" alt="Screenshot_20260727_142649" src="https://github.com/user-attachments/assets/41d1d9f1-67e1-484a-afc2-a5a6fdf257ab" />
 <img width="936" height="507" alt="Screenshot_20260727_142132" src="https://github.com/user-attachments/assets/5322ea0a-53e5-4aa9-bdde-db406ca0780a" />
 <img width="1920" height="1080" alt="Screenshot_20260727_141636" src="https://github.com/user-attachments/assets/bc60f153-bea7-44fb-8f6e-11d0b063ae5f" />
-
-
+ <img width="1920" height="1080" alt="Screenshot_20260727_141543" src="https://github.com/user-attachments/assets/91a52004-f4ca-47fd-8663-1a62391f9345" />
+<img width="911" height="587" alt="Screenshot_20260727_140803" src="https://github.com/user-attachments/assets/3644f442-f1c4-463e-bc98-feba19589384" />
+<img width="1920" height="1080" alt="Screenshot_20260727_140732" src="https://github.com/user-attachments/assets/b93bea8d-71d3-47d5-9a2a-b5e387128bbd" />
+<img width="1920" height="1080" alt="Screenshot_20260727_140138" src="https://github.com/user-attachments/assets/81bca610-3efb-41fd-ba2f-ca396e97387f" />
+<img width="1920" height="1080" alt="Screenshot_20260727_140711" src="https://github.com/user-attachments/assets/6f21673a-d16f-4b92-8914-45e7eaa3d47d" />
+<img width="1920" height="1080" alt="Screenshot_20260727_135653" src="https://github.com/user-attachments/assets/b77af53b-d10f-4d2c-9605-30cb67291a8d" />
+<img width="1920" height="1080" alt="Screenshot_20260727_135102" src="https://github.com/user-attachments/assets/5a82c2be-6fb1-4e60-b5f4-55e4386cdc9a" />
 
 comm file1 file2
  ## OUTPUT
