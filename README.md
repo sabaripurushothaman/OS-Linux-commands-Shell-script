@@ -52,7 +52,12 @@ cat < file2
 # Comparing Files
 cmp file1 file2
 ## OUTPUT
- 
+<img width="1920" height="1080" alt="Screenshot_20260727_134518" src="https://github.com/user-attachments/assets/2bfc1c6e-12f0-48db-8faa-4d13e8caf4c9" />
+<img width="1920" height="1080" alt="Screenshot_20260727_215151" src="https://github.com/user-attachments/assets/e3e5b89c-1122-4b76-92a2-b8a47d293636" />
+<img width="324" height="129" alt="Screenshot_20260728_222029" src="https://github.com/user-attachments/assets/b6d719ed-797c-40c9-b7be-8c9486d0d0ca" />
+<img width="1920" height="1080" alt="Screenshot_20260727_215119" src="https://github.com/user-attachments/assets/ffcb8183-58a7-4eb2-93e6-963480047047" />
+<img width="1920" height="1080" alt="Screenshot_20260727_214354" src="https://github.com/user-attachments/assets/052a1580-566c-4e03-a126-0cbe76c984cb" />
+
 comm file1 file2
  ## OUTPUT
 
