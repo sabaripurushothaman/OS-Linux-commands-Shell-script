@@ -42,12 +42,12 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
-
+<img width="417" height="191" alt="Screenshot 2026-07-28 230337" src="https://github.com/user-attachments/assets/44c73e9f-55ac-4144-ae7c-52c933342307" />
 
 
 cat < file2
 ## OUTPUT
-<img width="417" height="191" alt="Screenshot 2026-07-28 230337" src="https://github.com/user-attachments/assets/44c73e9f-55ac-4144-ae7c-52c933342307" />
+
 
 
 # Comparing Files
@@ -277,12 +277,14 @@ cat > file23
 
 sed -n -e '3p' file23
 ## OUTPUT
+<img width="292" height="37" alt="image" src="https://github.com/user-attachments/assets/d3142e70-4828-489e-926e-cf9074a70b91" />
 
 
 
 sed -n -e '$p' file23
 ## OUTPUT
 
+<img width="257" height="35" alt="image" src="https://github.com/user-attachments/assets/fe690571-a416-4142-819a-1c9a3efccb0a" />
 
 
 sed  -e 's/Ram/Sita/' file23
