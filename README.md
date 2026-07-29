@@ -958,6 +958,8 @@ $ chmod 755 forctype.sh
 $ ./forctype1.sh 
 ## OUTPUT
 
+<img width="503" height="268" alt="image" src="https://github.com/user-attachments/assets/8f129863-ad50-4498-8805-4fa667663120" />
+
 cat fornested1.sh 
 ```bash
 #!/bin/bash
@@ -976,6 +978,8 @@ $ chmod 755 fornested1.sh
 $ ./fornested1.sh 
  ## OUTPUT
 
+<img width="470" height="363" alt="image" src="https://github.com/user-attachments/assets/e9f3673e-ab09-4560-b819-4b66b0042fa7" />
+
  
 cat forbreak.sh 
 ```bash
@@ -993,29 +997,13 @@ echo "The for loop is completed“
 ```
 ## OUTPUT
 
+<img width="745" height="307" alt="image" src="https://github.com/user-attachments/assets/8dc2a9c8-8442-4101-9844-7684bb60b6aa" />
+
 $ chmod 755 forbreak.sh
  
 $ ./forbreak.sh 
  
-cat forbreak.sh 
-```bash
-#!/bin/bash
-# breaking out of a for loop
-for var1 in 1 2 3 4 5
-do
-if [ $var1 -eq 3 ]
-then
-continue
-fi
-echo "Iteration number: $var1"
-done
-echo "The for loop is completed“
-```
 
- 
-$ chmod 755 forcontinue.sh
- 
-$ ./forcontinue.sh 
 ## OUTPUT
  
 cat exread.sh 
@@ -1032,6 +1020,8 @@ $ chmod 755 exread.sh
 $ ./exread.sh 
 ## OUTPUT
 
+<img width="707" height="206" alt="image" src="https://github.com/user-attachments/assets/f9cb4291-cc55-4553-91fc-210ab53e4122" />
+
 
  cat exread1.sh
 ```bash
@@ -1043,6 +1033,8 @@ echo "Hello $name, welcome to my program. “
 $ chmod 755 exread1.sh 
 
 ## OUTPUT
+
+<img width="671" height="147" alt="image" src="https://github.com/user-attachments/assets/35bc6582-536f-4e89-9619-2a195d289842" />
 
 
 
@@ -1069,6 +1061,8 @@ fi
  
  ./funcex.sh 1 2
 
+<img width="601" height="237" alt="image" src="https://github.com/user-attachments/assets/eb23ed46-bc1a-4cd3-8cdb-254e7b6fb19a" />
+
  
 cat argshift.sh
 ```bash
@@ -1082,7 +1076,9 @@ $ chmod 777 argshift.sh
 
 ## OUTPUT
 $ ./argshift.sh 1 2 3
- 
+
+ <img width="391" height="222" alt="image" src="https://github.com/user-attachments/assets/d401786e-2e3c-48a8-b2ee-09bc4b6a2bbd" />
+
  cat argshift1.sh
 ```bash
  #/bin/bash 
@@ -1099,19 +1095,9 @@ done
 $ chmod 777 argshift.sh
 ## OUTPUT
 $ ./argshift.sh 1 2 3
+
+ <img width="517" height="246" alt="image" src="https://github.com/user-attachments/assets/c06966b0-f7e1-46d4-abbf-b89e889ec88c" />
  
-cat argshift.sh
-```bash
-#!/bin/bash 
-set -x 
-while (( "$#" )); do 
-  echo $1 
-  shift 
-done
-set +x
-```
-## OUTPUT
- ./argshift.sh 1 2 3
  
  
 cat > nc.awk
