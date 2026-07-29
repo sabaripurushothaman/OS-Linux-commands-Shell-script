@@ -447,7 +447,9 @@ chmod 755 my-script.sh
 ./my-script.sh
 ## OUTPUT
 
- 
+
+<img width="632" height="213" alt="image" src="https://github.com/user-attachments/assets/9441b15e-5b7b-4b8d-b82d-1916ce6931ec" />
+
 cat << stop > herecheck.txt
 ```
 hello in this world
@@ -499,9 +501,13 @@ chmod 777 scriptest.sh
 
 ## OUTPUT
 
+<img width="411" height="142" alt="image" src="https://github.com/user-attachments/assets/830ce2f2-d7e8-4875-bcf9-c71993d7d1d4" />
+
  
 ls file1
 ## OUTPUT
+
+<img width="210" height="27" alt="image" src="https://github.com/user-attachments/assets/cef8afef-cd1a-45a5-baf0-4acf94cb20e6" />
 
 echo $?
 ## OUTPUT 
@@ -510,11 +516,9 @@ bash: ./one: Permission denied
  
 echo $?
 ## OUTPUT 
- 
-abcd
- 
-echo $?
- ## OUTPUT
+
+ <img width="281" height="27" alt="image" src="https://github.com/user-attachments/assets/f3722c2a-5e00-40e4-9924-f201bc27ea5d" />
+
 
 
  
@@ -555,6 +559,8 @@ chmod 755 strcomp.sh
 ./strcomp.sh 
 ## OUTPUT
 
+<img width="821" height="562" alt="image" src="https://github.com/user-attachments/assets/dc4a6ba2-6045-4d40-acc2-cb56dbdbd2bc" />
+
 
 # check file ownership
 cat < psswdperm.sh 
@@ -581,6 +587,8 @@ fi
  ```
 ./psswdperm.sh
 ## OUTPUT
+
+<img width="588" height="150" alt="image" src="https://github.com/user-attachments/assets/5c7d0c76-599c-448b-9c57-8dfb70edae16" />
 
 # check if with file location
 cat>ifnested.sh 
@@ -629,6 +637,8 @@ fi
 ## OUTPUT
 
 
+<img width="407" height="282" alt="image" src="https://github.com/user-attachments/assets/e9163c9d-daed-4f65-9e11-91c462615ec3" />
+
 
 # using numeric test comparisons
 cat > iftest.sh 
@@ -671,6 +681,8 @@ $ chmod 755 iftest.sh
  
 $ ./iftest.sh 
 ##OUTPUT
+
+<img width="510" height="217" alt="image" src="https://github.com/user-attachments/assets/bf037916-7635-43af-a73d-aa226797b4f2" />
 
 # check if a file
 cat > ifnested.sh 
@@ -720,6 +732,8 @@ $ chmod 755 ifnested.sh
  
 $ ./ifnested.sh 
 ##OUTPUT
+
+<img width="401" height="192" alt="image" src="https://github.com/user-attachments/assets/c0c369a1-e6fa-4d69-8833-f94a4c99991f" />
 
 # looking for a possible value using elif
 cat elifcheck.sh 
