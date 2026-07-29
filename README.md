@@ -733,7 +733,9 @@ $ chmod 755 ifnested.sh
 $ ./ifnested.sh 
 ##OUTPUT
 
-<img width="401" height="192" alt="image" src="https://github.com/user-attachments/assets/c0c369a1-e6fa-4d69-8833-f94a4c99991f" />
+
+<img width="401" height="192" alt="image" src="https://github.com/user-attachments/assets/0091ee7c-2902-428c-9c7e-ac40b98d0387" />
+
 
 # looking for a possible value using elif
 cat elifcheck.sh 
@@ -764,6 +766,8 @@ $ ./elifcheck.sh
 ## OUTPUT
 
 
+<img width="647" height="288" alt="image" src="https://github.com/user-attachments/assets/be8e27c3-ffdd-4947-bf80-e4cd61755c3f" />
+
 # testing compound comparisons
 cat> ifcompound.sh 
 ```bash
@@ -778,6 +782,8 @@ fi
 $ chmod 755 ifcompound.sh
 $ ./ifcompound.sh 
 ## OUTPUT
+
+<img width="446" height="152" alt="image" src="https://github.com/user-attachments/assets/5d646ae6-86f8-4964-a693-84b76219020e" />
 
 # using the case command
 cat >casecheck.sh 
@@ -797,6 +803,10 @@ esac
 $ chmod 755 casecheck.sh 
  
 $ ./casecheck.sh 
+## Output
+
+<img width="540" height="197" alt="image" src="https://github.com/user-attachments/assets/d5dcffb5-2970-45f9-bab7-42c699232792" />
+
  
 cat > whiletest
 ```bash
@@ -812,8 +822,10 @@ done
 $ chmod 755 whiletest.sh
  
 $ ./whiletest.sh
- 
- 
+ ## output:
+
+ <img width="638" height="390" alt="image" src="https://github.com/user-attachments/assets/d535340e-35ae-483c-b97f-a2bfa6255f71" />
+
 cat untiltest.sh 
 ```bash
 \#using the until command
@@ -825,7 +837,10 @@ var1=$[ $var1 - 25 ]
 done
 ``` 
 $ chmod 755 untiltest.sh
- 
+ ## OUTPUT:
+
+ <img width="695" height="283" alt="image" src="https://github.com/user-attachments/assets/e4bc4189-e12a-437d-bd1a-b3c81ada2ad8" />
+
  
  
 cat forin1.sh 
@@ -839,7 +854,10 @@ done
  ```
  
 $ chmod 755 forin1.sh
- 
+ ## OUTPUT:
+
+ <img width="733" height="352" alt="image" src="https://github.com/user-attachments/assets/25ca4ebd-2cc0-4616-9db9-d2c1ee07d66a" />
+
  
 cat forin2.sh 
 ```bash
@@ -865,7 +883,12 @@ done
 $ chmod 755 forin2.sh
  
 $ ./forin2.sh 
- 
+ ## OUTPUT:
+
+
+ <img width="792" height="262" alt="image" src="https://github.com/user-attachments/assets/d8589eb4-18e5-410d-af74-aee1da2f4f5d" />
+
+
 cat forin3.sh 
 ```bash
 \#!/bin/bash
@@ -877,16 +900,10 @@ done
 ```
 $ ./forin3.sh 
  
-cat forin1.sh 
-```bash
-#!/bin/bash
-# basic for command
-for test in Alabama Alaska Arizona Arkansas California Colorado
-do
-echo The next state is $test
-done
-```
-$ chmod 755 forin1.sh
+## OUTPUT:
+
+<img width="760" height="327" alt="image" src="https://github.com/user-attachments/assets/9cf70d76-d078-4cd8-9876-21aabfa92019" />
+
 
 ## OUTPUT
 cat forinfile.sh 
@@ -924,6 +941,9 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype.sh 
 ## OUTPUT
+
+
+<img width="695" height="347" alt="image" src="https://github.com/user-attachments/assets/f187e95d-2374-4894-a411-b38a0341a814" />
 
 cat forctype1.sh 
 ```bash
