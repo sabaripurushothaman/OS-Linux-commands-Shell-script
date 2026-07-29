@@ -367,7 +367,8 @@ sed -n '2,4{s/^/$/;p}' file23
 sed -n '2,4{s/$/*/;p}' file23
 
 
-<img width="178" height="23" alt="image" src="https://github.com/user-attachments/assets/d4a09385-134b-46fc-8e23-bde8a3661195" />
+<img width="242" height="45" alt="image" src="https://github.com/user-attachments/assets/c10e43c9-929a-4218-8b5d-d80882474bbf" />
+
 
 #Sorting File content
 cat > file21
@@ -382,6 +383,8 @@ sort file21
 ## OUTPUT
 
 
+<img width="232" height="65" alt="image" src="https://github.com/user-attachments/assets/af92c57d-2199-4f99-bf14-a84dce646034" />
+
 cat > file22
 ```
 1001 | Ram | 10000 | HR
@@ -395,6 +398,8 @@ uniq file22
 ## OUTPUT
 
 
+
+<img width="246" height="53" alt="image" src="https://github.com/user-attachments/assets/e028f48e-767e-482b-a2db-0bdede1dbe65" />
 
 #Using tr command
 
