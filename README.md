@@ -406,6 +406,8 @@ uniq file22
 cat file23 | tr [:lower:] [:upper:]
  ## OUTPUT
 
+<img width="490" height="187" alt="image" src="https://github.com/user-attachments/assets/f4c3ef11-d285-4ab0-b8de-057ce32c3f2d" />
+
 cat < urllist.txt
 ```
 www. yahoo. com
@@ -422,38 +424,18 @@ www. mrcet.... com
 cat urllist.txt | tr -d ' '
  ## OUTPUT
 
+<img width="441" height="95" alt="image" src="https://github.com/user-attachments/assets/aeceb0bf-d344-4309-af62-2f3ccd9037a9" />
+
 
  
 cat urllist.txt | tr -d ' ' | tr -s '.'
 ## OUTPUT
 
 
-
-#Backup commands
-tar -cvf backup.tar *
-## OUTPUT
+<img width="547" height="146" alt="image" src="https://github.com/user-attachments/assets/66cebcf8-a527-4889-9537-9b794f63030d" />
 
 
-mkdir backupdir
- 
-mv backup.tar backupdir
 
-cd backupdir
- 
-tar -tvf backup.tar
-## OUTPUT
-
-
-tar -xvf backup.tar
-## OUTPUT
-
-gzip backup.tar
-
-ls .gz
-## OUTPUT
- 
-gunzip backup.tar.gz
-## OUTPUT
 
  
 # Shell Script
@@ -477,6 +459,8 @@ stop
 cat herecheck.txt
 ## OUTPUT
 
+
+<img width="430" height="151" alt="image" src="https://github.com/user-attachments/assets/29679195-2b88-4b56-993c-56241a7b61e3" />
 
 cat < scriptest.sh 
 ```bash
