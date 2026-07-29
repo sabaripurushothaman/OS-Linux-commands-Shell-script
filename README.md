@@ -115,6 +115,7 @@ hello world
  
 grep Hello newfile 
 ## OUTPUT
+<img width="403" height="48" alt="image" src="https://github.com/user-attachments/assets/1e42e797-f5b5-4ce2-8ad3-d82ced83f68e" />
 
 
 grep -v hello newfile 
