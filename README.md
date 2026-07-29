@@ -1142,6 +1142,7 @@ else
 fi
 ```
 ## OUTPUT 
+<img width="457" height="450" alt="image" src="https://github.com/user-attachments/assets/23bc8c40-20b5-4708-9715-0336f99d5b5e" />
 
 
 # RESULT:
