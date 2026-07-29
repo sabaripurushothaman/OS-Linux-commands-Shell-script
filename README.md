@@ -877,28 +877,6 @@ $ ./forin3.sh
 <img width="760" height="327" alt="image" src="https://github.com/user-attachments/assets/9cf70d76-d078-4cd8-9876-21aabfa92019" />
 
 
-## OUTPUT
-cat forinfile.sh 
-```bash
-#!/bin/bash
-# reading values from a file
-file="cities"
-for state in `cat $file`
-do
-echo "Visit beautiful $file“
-done
-```
-$ chmod 777 forinfile.sh
-$ cat cities
-Hyderabad
-Alampur
-Basara
-Warangal
-Adilabad
-Bhadrachalam
-Khammam
-
-## OUTPUT
 
 
 cat forctype.sh 
