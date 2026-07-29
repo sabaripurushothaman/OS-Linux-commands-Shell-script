@@ -367,6 +367,8 @@ sed -n '2,4{s/^/$/;p}' file23
 sed -n '2,4{s/$/*/;p}' file23
 
 
+<img width="178" height="23" alt="image" src="https://github.com/user-attachments/assets/d4a09385-134b-46fc-8e23-bde8a3661195" />
+
 #Sorting File content
 cat > file21
 ```
