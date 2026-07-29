@@ -55,36 +55,6 @@ cmp file1 file2
 ## OUTPUT
 <img width="343" height="47" alt="image" src="https://github.com/user-attachments/assets/0b8c284e-522e-41f7-8afe-3461fb286543" />
 
-<img width="1920" height="1080" alt="Screenshot_20260727_134518" src="https://github.com/user-attachments/assets/2bfc1c6e-12f0-48db-8faa-4d13e8caf4c9" />
-<img width="1920" height="1080" alt="Screenshot_20260727_215151" src="https://github.com/user-attachments/assets/e3e5b89c-1122-4b76-92a2-b8a47d293636" />
-<img width="324" height="129" alt="Screenshot_20260728_222029" src="https://github.com/user-attachments/assets/b6d719ed-797c-40c9-b7be-8c9486d0d0ca" />
-<img width="1920" height="1080" alt="Screenshot_20260727_215119" src="https://github.com/user-attachments/assets/ffcb8183-58a7-4eb2-93e6-963480047047" />
-<img width="1920" height="1080" alt="Screenshot_20260727_214354" src="https://github.com/user-attachments/assets/052a1580-566c-4e03-a126-0cbe76c984cb" />
-<img width="800" height="155" alt="Screenshot_20260727_213841" src="https://github.com/user-attachments/assets/235a5d4c-4e79-4bac-9fb3-7b734a5c965f" />
-<img width="765" height="266" alt="Screenshot_20260727_213623" src="https://github.com/user-attachments/assets/58fdaf3e-15ea-46dc-b5c9-ab677129274c" />
-<img width="1920" height="1080" alt="Screenshot_20260727_213349" src="https://github.com/user-attachments/assets/917c766c-1c71-4fdb-8a55-5f86fe692924" />
-<img width="749" height="209" alt="Screenshot_20260727_213118" src="https://github.com/user-attachments/assets/1fbebe9f-b9c8-4540-8745-6e4197b5252d" />
-<img width="622" height="206" alt="Screenshot_20260727_212844" src="https://github.com/user-attachments/assets/c7690502-2a3b-4c9d-a3a3-d883898d198f" />
-<img width="531" height="247" alt="Screenshot_20260727_211158" src="https://github.com/user-attachments/assets/4e41e16b-f77f-4a0e-bb13-702c1d56d0c4" />
-<img width="1920" height="1080" alt="Screenshot_20260727_210551" src="https://github.com/user-attachments/assets/26d95251-f166-4d7e-9091-275e47854a49" />
-<img width="1920" height="1080" alt="Screenshot_20260727_205434" src="https://github.com/user-attachments/assets/86e6e2d7-9038-4652-a33b-cf22ba121c4c" />
-<img width="1920" height="1080" alt="Screenshot_20260727_200341" src="https://github.com/user-attachments/assets/28d5a311-1c4b-456f-b621-ba11aab75306" />
-<img width="1920" height="1080" alt="Screenshot_20260727_200144" src="https://github.com/user-attachments/assets/b71409ab-085e-494b-9683-6f207e8f7719" />
-<img width="1920" height="1080" alt="Screenshot_20260727_200138" src="https://github.com/user-attachments/assets/861cdd13-405b-4137-a468-d9b8d20cef87" />
-<img width="1920" height="1080" alt="Screenshot_20260727_195713" src="https://github.com/user-attachments/assets/899b1b0d-b779-4dbf-8b16-fcf6887d4b47" />
-<img width="726" height="290" alt="Screenshot_20260727_194846" src="https://github.com/user-attachments/assets/ac06e504-4709-4c45-81ef-333a8d1ac57c" />
-<img width="1920" height="1080" alt="Screenshot_20260727_143931" src="https://github.com/user-attachments/assets/dc3d5381-d252-467e-839d-70773d9ea5ce" />
-<img width="893" height="198" alt="Screenshot_20260727_143048" src="https://github.com/user-attachments/assets/f489f606-45e4-4c63-bb76-e28689ba0c24" />
-<img width="893" height="76" alt="Screenshot_20260727_142649" src="https://github.com/user-attachments/assets/41d1d9f1-67e1-484a-afc2-a5a6fdf257ab" />
-<img width="936" height="507" alt="Screenshot_20260727_142132" src="https://github.com/user-attachments/assets/5322ea0a-53e5-4aa9-bdde-db406ca0780a" />
-<img width="1920" height="1080" alt="Screenshot_20260727_141636" src="https://github.com/user-attachments/assets/bc60f153-bea7-44fb-8f6e-11d0b063ae5f" />
- <img width="1920" height="1080" alt="Screenshot_20260727_141543" src="https://github.com/user-attachments/assets/91a52004-f4ca-47fd-8663-1a62391f9345" />
-<img width="911" height="587" alt="Screenshot_20260727_140803" src="https://github.com/user-attachments/assets/3644f442-f1c4-463e-bc98-feba19589384" />
-<img width="1920" height="1080" alt="Screenshot_20260727_140732" src="https://github.com/user-attachments/assets/b93bea8d-71d3-47d5-9a2a-b5e387128bbd" />
-<img width="1920" height="1080" alt="Screenshot_20260727_140138" src="https://github.com/user-attachments/assets/81bca610-3efb-41fd-ba2f-ca396e97387f" />
-<img width="1920" height="1080" alt="Screenshot_20260727_140711" src="https://github.com/user-attachments/assets/6f21673a-d16f-4b92-8914-45e7eaa3d47d" />
-<img width="1920" height="1080" alt="Screenshot_20260727_135653" src="https://github.com/user-attachments/assets/b77af53b-d10f-4d2c-9605-30cb67291a8d" />
-<img width="1920" height="1080" alt="Screenshot_20260727_135102" src="https://github.com/user-attachments/assets/5a82c2be-6fb1-4e60-b5f4-55e4386cdc9a" />
 
 comm file1 file2
  ## OUTPUT
@@ -1098,7 +1068,20 @@ $ ./argshift.sh 1 2 3
 
  <img width="517" height="246" alt="image" src="https://github.com/user-attachments/assets/c06966b0-f7e1-46d4-abbf-b89e889ec88c" />
  
- 
+cat argshift.sh
+```bash
+#!/bin/bash 
+set -x 
+while (( "$#" )); do 
+  echo $1 
+  shift 
+done
+set +x
+```
+## OUTPUT
+ ./argshift.sh 1 2 3
+ <img width="507" height="226" alt="Screenshot 2026-07-29 085739" src="https://github.com/user-attachments/assets/8d39ff07-85d1-40ae-b2e8-af3e4e8e6be2" />
+
  
 cat > nc.awk
 ```bash
@@ -1129,7 +1112,8 @@ ubcdfghj
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
- 
+ <img width="500" height="520" alt="Screenshot 2026-07-29 090007" src="https://github.com/user-attachments/assets/ce1a7c67-2549-43d1-9800-294ccc31bbf5" />
+
 cat > palindrome.sh
 ```bash
 #num=545
